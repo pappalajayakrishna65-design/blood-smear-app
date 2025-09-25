@@ -1,6 +1,6 @@
-
 streamlit
 ultralytics
 torch
 torchvision
 opencv-python-headless
+protobuf==3.20.0
